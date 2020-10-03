@@ -1,0 +1,67 @@
+default:
+  navigation:
+    - title: Mulher
+      subtitle: Categorias
+      url: /t/woman
+      items:
+        - :title: Saias
+          :url: /t/woman/saias
+        - :title: Vestidos
+          :url: /t/woman/vestidos
+        - :title: Camisetas
+          :url: /t/woman/camisetas
+        - :title: Sweaters
+          :url: /t/woman/sweaters
+        - :title: Tops
+          :url: /t/woman/tops
+        - :title: Jaquetas
+          :url: /t/woman/jaquetas
+      promo_banners:
+        - subtitle: Nova Coleção
+          title: Verão 2020
+          url: /t/new-collection/summer-2019
+          image: 'meganav/promo_banner_left-first-category.jpg'
+        - subtitle: Ofertas Especiais
+          title: Até 30% off
+          url: /t/special-offers/30-off
+          image: 'meganav/promo_banner_right-first-category.jpg'
+    - title: Homem
+      subtitle: Categorias
+      url: /t/homem
+      items:
+        - :title: Camisetas
+          :url: /t/homem/camisetas
+        - :title: Camisas
+          :url: /t/homem/camisas
+        - :title: Sweaters
+          :url: /t/homem/sweaters
+        - :title: Jaquetas
+          :url: /t/homem/jaquetas
+      promo_banners:
+        - subtitle: Nova Coleção
+          title: Verão 2020
+          url: /t/new-collection/summer-2019
+          image: 'meganav/promo_banner_left-second-category.jpg'
+        - subtitle: Ofertas Especiais
+          title: Até 30% off
+          url: /t/special-offers/30-off
+          image: 'meganav/promo_banner_right-second-category.jpg'
+    - title: Esportivo
+      subtitle: Categories
+      url: /t/sportswear
+      items:
+        - :title: Tops
+          :url: /t/sportswear/tops
+        - :title: Sweatshirts
+          :url: /t/sportswear/sweatshirts
+        - :title: Pants
+          :url: /t/sportswear/pants
+      promo_banners:
+        - subtitle: Nova Coleção
+          title: Verão 2020
+          url: /t/new-collection/summer-2019
+          image: 'meganav/promo_banner_left-third-category.jpg'
+        - subtitle: Ofertas Especiais
+          title: Até 30% off
+          url: /t/special-offers/30-off
+          image: 'meganav/promo_banner_right-third-category.jpg'
